@@ -18,3 +18,4 @@ This project aims to simulate the financial survival of a credit portfolio under
 To view the full methodology, SHAP interpretability charts, and use the **Interactive Macroeconomic Simulator**, please click the badge above or visit the link below:
 
 **HERE** **[View the Fully Interactive Code and Dashboard](https://bit.ly/4sM3DLf)**
+**IMPORTANT** Click on Edit and in the top pane press RUN ALL To see the results. The runtime takes times please be patient.
