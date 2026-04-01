@@ -1,6 +1,7 @@
 **Impact of 10% Credit Card Interest Rate Cap on Probability of Default and Bank NPV**
 
-[![View on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://bit.ly/4sM3DLf)
+[![View on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]( https://bit.ly/4tlzemQ)
+
 
 ### Project Overview
 This project aims to simulate the financial survival of a credit portfolio under macroeconomic stress and regulatory policy shocks. 
@@ -17,5 +18,5 @@ This project aims to simulate the financial survival of a credit portfolio under
 ### 🚀 Interactive Dashboard & Code
 To view the full methodology, SHAP interpretability charts, and use the **Interactive Macroeconomic Simulator**, please click the badge above or visit the link below:
 
-**HERE** **[View the Fully Interactive Code and Dashboard](https://bit.ly/4sM3DLf)**
+**HERE** **[View the Fully Interactive Code and Dashboard]( https://bit.ly/4tlzemQ)**
 **IMPORTANT** Click on Edit and in the top pane press RUN ALL To see the results and Specifically how simulator is working. The runtime takes times please be patient.
